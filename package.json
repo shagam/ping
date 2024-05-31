@@ -1,0 +1,28 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "test express ping response time",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shagam/ping.git"
+  },
+  "keywords": [
+    "ping",
+    "node",
+    "express"
+  ],
+  "author": "Eli Shagam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shagam/ping/issues"
+  },
+  "homepage": "https://github.com/shagam/ping#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
