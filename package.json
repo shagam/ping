@@ -23,6 +23,7 @@
   "homepage": "https://github.com/shagam/ping#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "node-ec2-metadata": "^0.0.5"
   }
 }
